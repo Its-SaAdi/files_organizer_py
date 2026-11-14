@@ -66,6 +66,5 @@ file-organizers/
 This project was built to master core Python programming concepts including file I/O operations, data structures (dictionaries/lists), exception handling, system path management, and building production-ready CLI tools.
 
 ## Author
-Saad Jawed
 
-[GitHub Profile]()
+[It's SaAdi](https://github.com/Its-SaAdi) (Check out my profile.)
